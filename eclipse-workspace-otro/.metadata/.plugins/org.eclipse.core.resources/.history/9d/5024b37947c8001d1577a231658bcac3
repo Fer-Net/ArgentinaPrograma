@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author Fer-Net
+ *
+ */
+module CLAUDIO {
+	requires org.junit.jupiter.api;
+}

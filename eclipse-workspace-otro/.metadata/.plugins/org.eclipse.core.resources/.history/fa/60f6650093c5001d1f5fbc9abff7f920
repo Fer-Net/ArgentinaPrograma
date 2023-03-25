@@ -1,0 +1,39 @@
+package tito;
+
+public class Principal {
+
+	
+	public static void main(String[] args) {
+		
+
+		Jugador j1 = new Jugador("messi",10,"medio campo");
+
+		Equipo argentina = new Equipo("Argentina", "A", j1);
+		
+		System.out.println("el nombre del equipo es: " + argentina.getNombre());
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		String nombre = argentina.getJugador1().getNombre();
+		
+		
+		
+		
+		System.out.println(argentina.getJugador1().getNombre());
+		
+		
+	}
+}

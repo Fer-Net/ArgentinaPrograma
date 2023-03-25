@@ -1,0 +1,10 @@
+package compras;
+
+public class PrincipalMain {
+	
+	public static void main(String[] args) {
+		Perro p1 = new Perro("Negrito", 10);
+		System.out.println("fuera de la clase " + p1.getNombre());
+
+	}
+}

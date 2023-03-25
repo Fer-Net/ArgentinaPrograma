@@ -1,0 +1,18 @@
+package compras;
+
+public class DescuentoPorPorcentaje extends Descuento{
+
+	//private double descuento;
+
+	
+	public DescuentoPorPorcentaje(double descuento) {
+		super(descuento);
+	}
+	
+	//	public double getDescuento() {
+	//	return this.descuento;
+	//}
+	
+	
+
+}

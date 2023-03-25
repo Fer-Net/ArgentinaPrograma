@@ -1,0 +1,12 @@
+package compras;
+
+public class DescuentoFijo extends Descuento {
+
+	//valor;
+
+	public DescuentoFijo(float valor) {
+		super(valor);
+	}
+	
+
+}

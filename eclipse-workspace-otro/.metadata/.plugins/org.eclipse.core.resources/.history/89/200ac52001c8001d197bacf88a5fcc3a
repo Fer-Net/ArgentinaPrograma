@@ -1,0 +1,14 @@
+package compras;
+
+public class DescuentoPorPorcentaje extends Descuento{
+
+	public DescuentoPorPorcentaje(double descuento) {
+		super(descuento);
+	}
+
+	@Override
+	public double valorFinal(double valorBase) {
+		return valorBase - (valorBase * this.getDescuento());
+	}
+
+}

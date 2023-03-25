@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Clase9/src/calculos&apos;&#x0D;&#x0A;- Original project: &apos;Practica6&apos;&#x0D;&#x0A;- Destination element: &apos;Clase9/src/calculos&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     tito.CalculadoraTest.java&#x0D;&#x0A;     tito.Calculadora.java" description="Copy compilation units" destination="=Clase9/src&lt;calculos" element1="/src&lt;tito{CalculadoraTest.java" element2="/src&lt;tito{Calculadora.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1679597293151" units="2" version="1.0"/>
+</session>

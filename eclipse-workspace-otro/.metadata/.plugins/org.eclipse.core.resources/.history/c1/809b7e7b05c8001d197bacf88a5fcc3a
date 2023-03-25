@@ -1,0 +1,25 @@
+package compras;
+
+public class DescuentoPorcentajeConTope extends DescuentoPorcentaje{
+
+	//valor;
+	private float tope;
+	
+	public DescuentoPorcentajeConTope(float tope) {
+		super(0);
+	}
+	
+	public float getTope() {
+		return this.tope;
+	}
+	
+	public void setTope(float nuevoValor) {
+		this.tope = nuevoValor;
+	}
+
+//	public float getValorDesc() 
+//	public void setValorDesc(float valor) 
+//	public float valorFinal(float valorInicial)
+
+
+}

@@ -1,0 +1,4 @@
+precioUnitario producto codigo
+5000 jabón 2000
+660 esponja 4000
+1000 chocolates 2000

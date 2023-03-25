@@ -1,0 +1,545 @@
+2023-03-11 14:16:36,949 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-11 19:34:31,965 [Worker-23: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-18 01:29:23,009 [Worker-28: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-18 01:58:07,546 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-18 01:58:08,225 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.2.4/maven-shade-plugin-3.2.4.jar
+2023-03-18 01:58:08,282 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.2.4/maven-shade-plugin-3.2.4.jar
+2023-03-18 01:58:09,977 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:LectorCSV:1.0-SNAPSHOT @ C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\pom.xml.
+2023-03-18 01:58:10,043 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2.pom
+2023-03-18 01:58:10,076 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2.pom
+2023-03-18 01:58:10,137 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9.pom
+2023-03-18 01:58:10,163 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9.pom
+2023-03-18 01:58:10,179 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/51/commons-parent-51.pom
+2023-03-18 01:58:10,216 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/51/commons-parent-51.pom
+2023-03-18 01:58:10,233 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.pom
+2023-03-18 01:58:10,258 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.pom
+2023-03-18 01:58:10,436 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.pom
+2023-03-18 01:58:10,463 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.pom
+2023-03-18 01:58:10,479 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/48/commons-parent-48.pom
+2023-03-18 01:58:10,508 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/48/commons-parent-48.pom
+2023-03-18 01:58:10,539 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+2023-03-18 01:58:10,592 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9.jar
+2023-03-18 01:58:10,592 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2.jar
+2023-03-18 01:58:10,742 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2.jar
+2023-03-18 01:58:10,742 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar
+2023-03-18 01:58:10,757 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9.jar
+2023-03-18 01:58:10,851 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.2.4/maven-shade-plugin-3.2.4.pom
+2023-03-18 01:58:10,876 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.2.4/maven-shade-plugin-3.2.4.pom
+2023-03-18 01:58:11,751 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:11,753 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 01:58:11,762 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:11,763 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 01:58:11,903 [Worker-47: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LectorCSV/src/main/java
+2023-03-18 01:58:11,903 [Worker-47: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LectorCSV/src/main/resources
+2023-03-18 01:58:11,904 [Worker-47: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LectorCSV/src/test/java
+2023-03-18 01:58:12,094 [Worker-47: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2023-03-18 01:58:12,252 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:12,256 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 01:58:12,263 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:12,264 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 01:58:12,416 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2-sources.jar
+2023-03-18 01:58:12,486 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/opencsv/opencsv/5.5.2/opencsv-5.5.2-sources.jar
+2023-03-18 01:58:12,488 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.opencsv:opencsv:5.5.2
+2023-03-18 01:58:12,569 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0-sources.jar
+2023-03-18 01:58:12,674 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0-sources.jar
+2023-03-18 01:58:12,676 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.12.0
+2023-03-18 01:58:12,744 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9-sources.jar
+2023-03-18 01:58:12,810 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.9/commons-text-1.9-sources.jar
+2023-03-18 01:58:12,811 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-text:1.9
+2023-03-18 01:58:12,876 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2023-03-18 01:58:12,957 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4-sources.jar
+2023-03-18 01:58:12,959 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-collections4:4.4
+2023-03-18 01:58:13,286 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:13,287 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-18 01:58:13,288 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:13,289 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 01:58:26,767 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [269])
+2023-03-18 01:58:26,774 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-03-18 01:58:26,774 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-03-18 01:58:26,774 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-03-18 01:58:26,774 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-03-18 01:58:26,774 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-03-18 01:58:26,775 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-03-18 01:58:26,775 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-03-18 01:58:26,775 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-03-18 01:58:26,775 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-03-18 01:58:26,775 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-03-18 01:58:26,775 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-03-18 01:58:26,775 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-03-18 01:58:26,775 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-03-18 01:58:26,776 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-03-18 01:58:26,777 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-03-18 01:58:26,778 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-03-18 01:58:26,778 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-03-18 01:58:26,778 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-03-18 01:58:26,778 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-03-18 01:58:26,778 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-03-18 01:58:26,778 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-03-18 01:58:26,778 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-03-18 01:58:26,778 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-03-18 01:58:26,779 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-03-18 01:58:26,781 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-03-18 01:58:26,781 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [433])
+2023-03-18 01:58:26,781 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-03-18 01:58:26,781 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-03-18 01:58:26,782 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-03-18 01:58:26,782 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-03-18 01:58:26,783 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-03-18 01:58:26,785 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV":
+2023-03-18 01:58:26,785 [Worker-49: Launching Executing clean in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-03-18 01:58:28,091 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:28,092 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 01:58:28,098 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:28,099 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 01:58:35,334 [Worker-46: Launching Executing install in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV":
+2023-03-18 01:58:35,334 [Worker-46: Launching Executing install in C__Users_Fer-Net_Desktop_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-03-18 01:58:42,935 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:42,936 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 01:58:42,937 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 01:58:42,938 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:01:28,297 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:01:28,298 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:01:28,301 [Worker-50: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:01:28,304 [Worker-50: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:07:16,109 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:07:16,110 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:07:16,111 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:07:16,112 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:07:57,661 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:07:57,662 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:07:57,664 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:07:57,665 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:09:10,530 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:09:10,531 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:09:10,532 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:09:10,533 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:09:16,613 [Worker-7: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:09:16,614 [Worker-7: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:09:16,616 [Worker-7: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:09:16,616 [Worker-7: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:09:43,360 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:09:43,361 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:09:43,363 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:09:43,363 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:09:48,892 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:09:48,893 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:09:48,895 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:09:48,895 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:10:07,642 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:10:07,643 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:10:07,644 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:10:07,645 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 02:10:16,116 [Worker-54: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:10:16,117 [Worker-54: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 02:10:16,119 [Worker-54: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 02:10:16,120 [Worker-54: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 09:40:57,873 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-18 11:40:22,047 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 11:40:22,053 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 11:40:22,060 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 11:40:22,060 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 11:40:23,696 [Worker-71: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 11:40:23,703 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 11:40:23,707 [Worker-71: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 11:40:23,708 [Worker-71: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-18 11:42:05,015 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 11:42:05,018 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-18 11:42:05,020 [Worker-72: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-18 11:42:05,021 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 12:56:14,771 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 13:45:54,442 [Worker-50: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project LectorCSV.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project LectorCSV.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-21 13:45:54,444 [Worker-50: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project LectorCSV.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project LectorCSV.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-21 13:45:54,451 [Worker-50: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project LectorCSV.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project LectorCSV.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-21 13:51:31,252 [Worker-51: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-21 13:51:33,440 [Worker-51: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:LectorCSV:1.0-SNAPSHOT @ C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\pom.xml.
+2023-03-21 13:51:34,092 [Worker-51: Update Maven projects configuration] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project LectorCSV.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project LectorCSV.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:404)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:398)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:428)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:388)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:340)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1102)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.ui.internal.project.MavenProjectConfigurator$UpdateMavenConfigurationJob.run(MavenProjectConfigurator.java:169)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-21 13:51:34,093 [Worker-51: Update Maven projects configuration] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project LectorCSV.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project LectorCSV.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:405)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:398)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:428)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:388)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:340)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1102)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.ui.internal.project.MavenProjectConfigurator$UpdateMavenConfigurationJob.run(MavenProjectConfigurator.java:169)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-21 13:51:34,099 [Worker-51: Update Maven projects configuration] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Main references non-existing project LectorCSV.
+org.eclipse.core.runtime.CoreException: Launch configuration Main references non-existing project LectorCSV.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:399)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.enable(MavenRuntimeClasspathProvider.java:428)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:132)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:388)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$3(ProjectConfigurationManager.java:340)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1102)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:339)
+	at org.eclipse.m2e.core.ui.internal.project.MavenProjectConfigurator$UpdateMavenConfigurationJob.run(MavenProjectConfigurator.java:169)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-21 13:51:34,386 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:51:34,389 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-21 13:51:34,398 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:51:34,399 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 13:51:34,513 [Worker-51: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LectorCSV/src/main/java
+2023-03-21 13:51:34,513 [Worker-51: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LectorCSV/src/main/resources
+2023-03-21 13:51:34,514 [Worker-51: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LectorCSV/src/test/java
+2023-03-21 13:51:34,609 [Worker-51: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-03-21 13:51:34,810 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:51:34,813 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-21 13:51:34,822 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:51:34,823 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 13:52:12,047 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [269])
+2023-03-21 13:52:12,055 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-03-21 13:52:12,055 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-03-21 13:52:12,056 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-03-21 13:52:12,057 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-03-21 13:52:12,058 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-03-21 13:52:12,059 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-03-21 13:52:12,060 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-03-21 13:52:12,061 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-03-21 13:52:12,061 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [433])
+2023-03-21 13:52:12,062 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-03-21 13:52:12,062 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-03-21 13:52:12,063 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-03-21 13:52:12,063 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-03-21 13:52:12,063 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-03-21 13:52:12,065 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV":
+2023-03-21 13:52:12,065 [Worker-44: Launching Executing clean in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-03-21 13:52:13,419 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:52:13,420 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-21 13:52:13,426 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:52:13,426 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 13:52:36,604 [Worker-53: Launching Executing install in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV":
+2023-03-21 13:52:36,605 [Worker-53: Launching Executing install in C__Users_Fer-Net_Desktop_LECTOR_argentina-programa-java-ejemplo-archivos_LectorCSV] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-03-21 13:52:41,147 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:52:41,148 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-21 13:52:41,149 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:52:41,150 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 13:56:14,256 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 13:58:02,715 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:58:02,718 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-21 13:58:02,728 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 13:58:02,729 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 14:55:49,886 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 17:52:21,144 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 17:52:21,155 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-21 17:52:21,163 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 17:52:21,163 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 18:03:18,900 [Worker-18: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 21:31:15,360 [Worker-75: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 21:31:15,376 [Worker-75: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-21 21:31:15,381 [Worker-75: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 21:31:15,383 [Worker-75: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 21:31:16,561 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 21:31:16,562 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-21 21:31:16,564 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 21:31:16,564 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-21 21:31:25,457 [Worker-76: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 21:31:25,459 [Worker-76: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-21 21:31:25,463 [Worker-76: Launching Main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-21 21:31:25,465 [Worker-76: Launching Main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-22 00:39:05,039 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-22 00:39:05,044 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-03-22 00:39:05,047 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-22 00:39:05,048 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\test\resources
+2023-03-23 15:41:15,947 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-23 15:49:37,369 [Worker-39: reload maven project] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\pom.xml: input contained no data @ 
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\pom.xml: input contained no data @ 
+
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readMavenProjects(IMavenToolbox.java:129)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$20(ProjectRegistryManager.java:883)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:879)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:105)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:239)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:707)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$4.run(MavenPomEditor.java:1027)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-23 15:56:59,993 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [269])
+2023-03-23 15:57:00,003 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-03-23 15:57:00,003 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-03-23 15:57:00,003 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-03-23 15:57:00,003 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-03-23 15:57:00,003 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-03-23 15:57:00,004 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-03-23 15:57:00,005 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-03-23 15:57:00,006 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-03-23 15:57:00,006 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-03-23 15:57:00,006 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-03-23 15:57:00,006 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-03-23 15:57:00,006 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-03-23 15:57:00,006 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-03-23 15:57:00,006 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-03-23 15:57:00,006 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-03-23 15:57:00,007 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-03-23 15:57:00,007 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-03-23 15:57:00,007 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-03-23 15:57:00,007 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-03-23 15:57:00,007 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-03-23 15:57:00,007 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-03-23 15:57:00,007 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-03-23 15:57:00,007 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-03-23 15:57:00,009 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-03-23 15:57:00,010 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-03-23 15:57:00,010 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [433])
+2023-03-23 15:57:00,010 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-03-23 15:57:00,010 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-03-23 15:57:00,011 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-03-23 15:57:00,011 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-03-23 15:57:00,011 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Fer-Net\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-03-23 15:57:00,013 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\eclipse-workspace-otro\Clase9":
+2023-03-23 15:57:00,013 [Worker-43: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-03-23 15:57:05,444 [Worker-44: Launching Executing install in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\eclipse-workspace-otro\Clase9":
+2023-03-23 15:57:05,444 [Worker-44: Launching Executing install in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-03-23 16:09:42,167 [Worker-49: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: argentina-programa:Calculadora:1 @ C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\pom.xml.
+2023-03-23 16:09:42,429 [Worker-49: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Clase9/src/main/java because it overlaps with /Clase9/src
+2023-03-23 16:09:42,429 [Worker-49: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Clase9/src/test/java because it overlaps with /Clase9/src
+2023-03-23 16:09:42,498 [Worker-49: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-23 16:09:42,655 [Worker-49: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: argentina-programa:Calculadora:1 @ C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\pom.xml.
+2023-03-23 16:09:42,714 [Worker-49: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Clase9/src/main/java because it overlaps with /Clase9/src
+2023-03-23 16:09:42,714 [Worker-49: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Clase9/src/test/java because it overlaps with /Clase9/src
+2023-03-23 16:09:42,744 [Worker-49: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-23 16:09:42,889 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:09:42,889 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:09:42,891 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:09:42,892 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-23 16:09:56,539 [Worker-49: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\eclipse-workspace-otro\Clase9":
+2023-03-23 16:09:56,539 [Worker-49: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-03-23 16:09:57,804 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:09:57,805 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:09:57,806 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:09:57,806 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-23 16:10:05,322 [Worker-51: Launching Executing install in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\eclipse-workspace-otro\Clase9":
+2023-03-23 16:10:05,323 [Worker-51: Launching Executing install in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-03-23 16:10:07,132 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:10:07,133 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:10:07,134 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:10:07,135 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-23 16:12:14,233 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: argentina-programa:Calculadora:1 @ C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\pom.xml.
+2023-03-23 16:12:14,432 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:12:14,433 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:12:14,434 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:12:14,435 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-23 16:12:15,575 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:12:15,575 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:12:15,576 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:12:15,577 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-23 16:12:23,858 [Worker-53: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\eclipse-workspace-otro\Clase9":
+2023-03-23 16:12:23,859 [Worker-53: Launching Executing clean in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-03-23 16:12:25,175 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:12:25,175 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:12:25,176 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:12:25,176 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-23 16:12:31,161 [Worker-55: Launching Executing install in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Fer-Net\eclipse-workspace-otro\Clase9":
+2023-03-23 16:12:31,162 [Worker-55: Launching Executing install in C__Users_Fer-Net_eclipse-workspace-otro_Clase9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-03-23 16:12:32,964 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:12:32,964 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:12:32,965 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:12:32,966 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-23 16:13:12,428 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:13:12,429 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:13:12,430 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:13:12,431 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-23 16:13:57,269 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:13:57,269 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\main\resources
+2023-03-23 16:13:57,270 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-23 16:13:57,271 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Fer-Net\eclipse-workspace-otro\Clase9\src\test\resources
+2023-03-24 01:28:58,612 [Worker-18: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-24 15:23:11,873 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-24 22:20:16,578 [Worker-18: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

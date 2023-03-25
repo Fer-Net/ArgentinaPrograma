@@ -1,0 +1,10 @@
+package compras;
+
+public class PrincipalMain {
+	
+	public static void main(String[] args) {
+		System.out.println("hola que tal?".toUpperCase().replace("hola","chau"));
+		
+		
+	}
+}

@@ -1,0 +1,26 @@
+package colecciones;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class colecciones {
+	public static void main(String[] args) {
+		Map<Integer,String> diccionario = new HashMap<>();
+		diccionario.put(1, "hola");
+		diccionario.put(2, "hola");
+		
+		System.out.println(diccionario.get(1));
+		
+		System.out.println(diccionario.containsKey(1));
+		
+		System.out.println(diccionario.containsKey(4));
+
+		System.out.println(diccionario.containsValue("hola"));
+		
+		
+		System.out.println(diccionario.values());
+
+		
+	}
+
+}

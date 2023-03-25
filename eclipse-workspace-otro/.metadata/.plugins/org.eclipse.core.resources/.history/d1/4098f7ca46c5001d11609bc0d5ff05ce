@@ -1,0 +1,16 @@
+package compras;
+
+public class DescuentoFijo extends Descuento{
+	
+	//private double descuento;
+
+
+	public DescuentoFijo(double descuento) {
+		super(descuento);
+	}
+
+//	public double getDescuento() {
+//		return this.descuento;
+//	}
+	
+}

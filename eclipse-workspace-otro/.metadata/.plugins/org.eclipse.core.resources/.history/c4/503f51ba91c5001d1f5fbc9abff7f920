@@ -1,0 +1,18 @@
+package tito;
+
+public class Equipo {
+	
+	private String nombre;
+	private String categoria;
+	String[] jugadores;
+	
+	public Equipo(String nombre, String categoria, String[] jugadores) {
+		this.nombre = nombre;
+		this.categoria = categoria;
+	    this.jugadores = jugadores;
+	}
+
+	
+	
+	
+}
