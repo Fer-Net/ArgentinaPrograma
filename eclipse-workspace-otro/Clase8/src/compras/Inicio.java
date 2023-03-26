@@ -13,7 +13,7 @@ public class Inicio {
 		
 		
 		//ACA LEO EL ARCHIVO DE TEXTO Y CREO OBJETOS------------------
-		String archivoEntrada = "src/main/resources/compras.txt";
+		String archivoEntrada = "compras.txt";
 		
 		
 		try {
@@ -30,19 +30,21 @@ public class Inicio {
 			
 			//ACA CREO EL CARRITO-----------------
 			
-			Carrito carrito = new Carrito(producto1,producto2,producto3, LocalDateTime.parse("2023-01-13T11:12:00"));
-			
+			Carrito carrito = new Carrito( LocalDateTime.parse("2023-01-13T11:12:00"));
+			carrito.agregarProducto(producto1);
+			carrito.agregarProducto(producto2);
+			carrito.agregarProducto(producto3);
 			Persona persona1 = new Persona("fer", "torres", LocalDateTime.parse("1980-03-13T11:12:00"), carrito );
 			
 			Carrito miCarrito = persona1.getCarrito();
 
 			Descuento desFijo = new DescuentoFijo(3990);
 			Descuento desPorcentaje = new DescuentoPorcentaje(0.50F);
-			Descuento desPorcentajeConTope = new DescuentoPorcentajeConTope(0.30F);
-			desPorcentajeConTope.setValorDesc(0.20f);
+			Descuento descuento = new DescuentoPorcentajeConTope(0.30F);
+			descuento.setValorDesc(0.20f);
 			
 			
-			producto1.setStock(false);
+			producto1.setStock(true);
 			producto2.setStock(true);
 			producto3.setStock(true);
 			
@@ -50,7 +52,13 @@ public class Inicio {
 			
 			//ACA COMPARO LOS PRECIOS CON..
 			try{
-				float resultado = miCarrito.costoFinal(desPorcentajeConTope);
+				
+				float resultado = miCarrito.costoFinal(descuento);
+				System.out.println(descuento.getClass());
+				System.out.println(descuento.getClass().toString().equals("class compras.DescuentoPorcentajeConTope"));
+				
+				
+				
 				System.out.println("El costo final es: " + resultado);
 			}
 			catch (NoHayStockException e){

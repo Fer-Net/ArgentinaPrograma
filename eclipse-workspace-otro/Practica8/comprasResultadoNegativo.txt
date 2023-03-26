@@ -1,0 +1,7 @@
+precioUnitario producto codigo
+1 jabón 2000
+1 esponja 4000
+1 chocolates2 6000
+1 chocolates3 7000
+1 chocolates4 0000
+1 caramelos 4512

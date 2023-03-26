@@ -26,14 +26,8 @@ public class Carrito {
 				return true;
 			}
 		}
+		return false;
 		
-		
-		return productos.contains(p); //true / false
-		
-		for (int i = 0; i < productos.size(); i++) {
-				p.equals(productos.get(i);
-			}
-		}
 		
 	}
 	
@@ -49,7 +43,7 @@ public class Carrito {
 		}
 		return null;
 	}
-	}
+	
 	
 	
 	//obtener productos de la lista
@@ -67,7 +61,11 @@ public class Carrito {
 	
 
 	public float costoFinal(Descuento desc) throws NoHayStockException { //polimorfismo
-		float total = desc.valorFinal(this.producto1.costoFinal() + this.producto2.costoFinal() + this.producto3.costoFinal())  ;
+		
+		float total = 0;
+		for (Producto p : this.productos) {
+			total = total + p.costoFinal();
+		}
 		return total;
 	}
 
