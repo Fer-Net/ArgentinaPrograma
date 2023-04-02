@@ -6,6 +6,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Fer-Net\Desktop\LECTOR\argentina-programa-java-ejemplo-archivos\LectorCSV\src\main\java\modelo"/>
+			<item value="C:\Users\Fer-Net\ArgentinaPrograma\eclipse-workspace-otro\CarritoCompras\src\main\java\modelo\Inicio.java"/>
+			<item value="C:\Users\Fer-Net\ArgentinaPrograma\eclipse-workspace-otro\CarritoCompras"/>
 			<item value="C:\Users\Fer-Net\eclipse-workspace-otro\ProyectoMaven"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -30,10 +33,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.miProyectoMaven"/>
 		</list>
 		<list key="groupId">
+			<item value="miProyectoMaven"/>
 		</list>
 		<list key="artifactId">
+			<item value="miProyectoMaven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -49,12 +55,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="maven"/>
+			<item value="miProyectoMaven"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="org"/>
+			<item value="miProyectoMaven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -66,6 +72,31 @@
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="miProyectoMaven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
 		</list>
 	</section>
 </section>
