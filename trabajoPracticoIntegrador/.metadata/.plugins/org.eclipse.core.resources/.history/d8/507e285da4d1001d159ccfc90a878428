@@ -1,0 +1,26 @@
+package modelo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class LectorDeArchivos {
+	
+	String rutaArchivoInscripciones;
+	List<ArchivoInscripciones> lineasArchivoInscripciones;
+	
+	public LectorDeArchivos( String rutaArchivoInscripciones) {
+		this.rutaArchivoInscripciones = rutaArchivoInscripciones;
+		lineasArchivoInscripciones = new ArrayList<ArchivoInscripciones>();
+	}
+	
+	public void parsearArchivo(){
+		List<ArchivoInscripciones> listaDeInscripciones = null;
+		
+	}
+	
+	
+	
+	
+	
+	//public ArrayList<Inscripcion> listarInscripciones()
+}
