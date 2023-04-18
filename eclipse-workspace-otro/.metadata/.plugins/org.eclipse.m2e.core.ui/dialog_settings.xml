@@ -76,6 +76,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Fer-Net\Desktop\JDBC\argentina-programa-java-ejemplo-conexion-db-master\argentina-programa-java-ejemplo-conexion-db-master"/>
+			<item value="C:\Users\Fer-Net\Desktop\clase-apoyo31_03_23-main\ClaseApoyo31_03_23"/>
 			<item value="C:\Users\Fer-Net\Desktop\JORGE\libreria\argentina-programa-java-ejemplo-archivos-main\LectorCSV"/>
 		</list>
 		<list key="projectNameTemplate">
